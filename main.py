@@ -1,10 +1,10 @@
-#Question 1
+#Question 1 :
 def somme(a,b):
   return a+b
 
 print(somme(1,1))
 
-#Question 2
+#Question 2 : 
 def somme3(a,b,c):
   return a+b+c
 
@@ -42,5 +42,7 @@ def append_chaine(l, autre) :
     return l
 
 print(append_chaine(maliste, 'v'))
+
+
 
 
